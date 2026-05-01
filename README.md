@@ -1,10 +1,10 @@
-# 🚀 AI-Based Product Feature Prioritization
+# AI-Based Product Feature Prioritization
 
 > Simulating how real product teams decide **what to build next** using data + ML
 
 ---
 
-## 🔍 Overview  
+##  Overview  
 This project builds a system to prioritize product features using:
 - Business logic (**RICE + ROI**)  
 - Machine Learning (**Decision Tree**)  
@@ -13,7 +13,7 @@ Goal: Replace subjective decisions with a **data-driven prioritization system**.
 
 ---
 
-## 📊 What I Built  
+##  What I Built  
 
 ### 1. Feature Dataset  
 Created a realistic dataset of product features like:
@@ -31,7 +31,7 @@ Each feature includes:
 - **ROI Score** → Revenue + Demand − Cost  
 - Combined into a final **AI Priority Score**
 
-➡️ Features classified into:
+ Features classified into:
 - High / Medium / Low priority  
 
 ---
@@ -52,17 +52,17 @@ Compared:
 
 ---
 
-## 📈 Key Results  
+##  Key Results  
 
-- ✅ **75% Agreement** between ML and traditional decisions  
-- 🔍 Identified cases where ML disagrees → highlights potential decision gaps  
-- ⚖️ Showed trade-offs between:
+-  **75% Agreement** between ML and traditional decisions  
+-  Identified cases where ML disagrees → highlights potential decision gaps  
+-  Showed trade-offs between:
   - Risk vs ROI  
   - Effort vs Value  
 
 ---
 
-## 📊 Visual Insights  
+##  Visual Insights  
 - Priority comparison (Traditional vs ML)  
 - Risk vs ROI scatter  
 - Effort vs ROI (decision conflicts)  
@@ -70,17 +70,17 @@ Compared:
 
 ---
 
-## 💡 What This Shows  
+##  What This Shows  
 - High revenue ≠ high priority (risk & effort matter)  
 - ML can replicate and challenge product decisions  
 - Prioritization can be **standardized and scaled**
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn  
 
 ---
 
-## 👨‍💻 Author  
+##  Author  
 Sujal Swami
