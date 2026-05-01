@@ -80,7 +80,4 @@ Compared:
 ##  Tech Stack  
 Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn  
 
----
 
-##  Author  
-Sujal Swami
