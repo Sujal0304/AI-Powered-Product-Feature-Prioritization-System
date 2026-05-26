@@ -265,6 +265,9 @@ Through this project, the following concepts were explored:
 ├── README.md
 └── requirements.txt
 ```
+ # Dashboard
+ 
+<img width="981" height="553" alt="Screenshot 2026-05-26 080740" src="https://github.com/user-attachments/assets/e5cf513a-c235-42b6-8fe0-b3acc5c019cc" />
 
 ---
 
